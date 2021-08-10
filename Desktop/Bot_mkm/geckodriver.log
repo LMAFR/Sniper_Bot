@@ -1,0 +1,485 @@
+1626211013821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJw8V8L"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626211015423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJw8V8L/search.json.mozlz4", (void 0)))
+1626211018929	Marionette	INFO	Listening on port 35859
+1626211018990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1626211022175	Marionette	INFO	Stopped listening on port 35859
+1626211195144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTVn4Jh"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626211195784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTVn4Jh/search.json.mozlz4", (void 0)))
+1626211200336	Marionette	INFO	Listening on port 46611
+1626211200425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626212852178	Marionette	INFO	Stopped listening on port 46611
+1626212904851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMoPdfB"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626212905462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMoPdfB/search.json.mozlz4", (void 0)))
+1626212911174	Marionette	INFO	Listening on port 42559
+1626212911275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626212941051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqER9Ph"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626212941567	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqER9Ph/search.json.mozlz4", (void 0)))
+1626212948015	Marionette	INFO	Listening on port 42613
+1626212948146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626212952115	Marionette	INFO	Stopped listening on port 42559
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626213009121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOtL9oU"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213009595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOtL9oU/search.json.mozlz4", (void 0)))
+1626213014826	Marionette	INFO	Listening on port 33405
+1626213015006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626213038709	Marionette	INFO	Stopped listening on port 42613
+1626213156809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerjwSzO"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213157288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerjwSzO/search.json.mozlz4", (void 0)))
+1626213161489	Marionette	INFO	Listening on port 33223
+1626213161577	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+1626213162571	Marionette	INFO	Stopped listening on port 33223
+1626213191901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM5Yr0y"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213192887	Marionette	INFO	Marionette enabled
+1626213193883	Marionette	INFO	Stopped listening on port 33405
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM5Yr0y/search.json.mozlz4", (void 0)))
+1626213197443	Marionette	INFO	Listening on port 33991
+1626213197587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is null", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+console.error: "isValidHoverTarget rejected with unexpected reason:"
+console.error: (new TypeError("rule is null", "resource://devtools/client/inspector/rules/utils/utils.js", 186))
+1626213291232	Marionette	INFO	Stopped listening on port 33991
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626213293787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1aMNS4"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213294322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1aMNS4/search.json.mozlz4", (void 0)))
+1626213297507	Marionette	INFO	Listening on port 37901
+1626213297616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626213341137	Marionette	INFO	Stopped listening on port 37901
+1626213343105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePYokPt"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213343625	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePYokPt/search.json.mozlz4", (void 0)))
+1626213346775	Marionette	INFO	Listening on port 36165
+1626213346844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626213576662	Marionette	INFO	Stopped listening on port 36165
+1626213578691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile40xsoa"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213579281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile40xsoa/search.json.mozlz4", (void 0)))
+1626213582440	Marionette	INFO	Listening on port 40659
+1626213582553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626213630146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTQekal"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213630738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTQekal/search.json.mozlz4", (void 0)))
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+1626213636163	Marionette	INFO	Stopped listening on port 40659
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1626213650908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenVOFhL"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213651452	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenVOFhL/search.json.mozlz4", (void 0)))
+1626213654825	Marionette	INFO	Listening on port 35961
+1626213654941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626213715924	Marionette	INFO	Stopped listening on port 35961
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626213718151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7anlCi"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213718834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7anlCi/search.json.mozlz4", (void 0)))
+1626213721870	Marionette	INFO	Listening on port 37385
+1626213721959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626213840815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef6I3a9"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626213841339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef6I3a9/search.json.mozlz4", (void 0)))
+1626213846648	Marionette	INFO	Listening on port 41557
+1626213846780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626213848402	Marionette	INFO	Stopped listening on port 37385
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cardmarket.com"
+1626214061203	Marionette	INFO	Stopped listening on port 41557
+1626214066249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR0WZ6V"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626214066928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR0WZ6V/search.json.mozlz4", (void 0)))
+1626214070181	Marionette	INFO	Listening on port 41539
+1626214070290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cardmarket.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.cardmarket.com"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626214524836	Marionette	INFO	Stopped listening on port 41539
+1626214526808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKWI81e"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626214527429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKWI81e/search.json.mozlz4", (void 0)))
+1626214530454	Marionette	INFO	Listening on port 39973
+1626214530563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626214747662	Marionette	INFO	Stopped listening on port 39973
+1626214751307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7cklFE"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626214751853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7cklFE/search.json.mozlz4", (void 0)))
+1626214755382	Marionette	INFO	Listening on port 45815
+1626214755430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626215012429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet2t1xl"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626215013103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet2t1xl/search.json.mozlz4", (void 0)))
+1626215017114	Marionette	INFO	Stopped listening on port 45815
+1626215018432	Marionette	INFO	Listening on port 33389
+1626215018529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626215151667	Marionette	INFO	Stopped listening on port 33389
+1626844179342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyL8Gqe"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626844181814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyL8Gqe/search.json.mozlz4", (void 0)))
+1626844187160	Marionette	INFO	Listening on port 43593
+1626844187239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1626844934646	Marionette	INFO	Stopped listening on port 43593
+1626844954443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileayqqOO"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626844955013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileayqqOO/search.json.mozlz4", (void 0)))
+1626844959236	Marionette	INFO	Listening on port 42419
+1626844959354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626845009116	Marionette	INFO	Stopped listening on port 42419
+1626845045785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel1grBB"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626845046268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel1grBB/search.json.mozlz4", (void 0)))
+1626845049713	Marionette	INFO	Listening on port 45901
+1626845049843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626845073132	Marionette	INFO	Stopped listening on port 45901
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626845078709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGQ7jlL"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626845079389	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGQ7jlL/search.json.mozlz4", (void 0)))
+1626845082760	Marionette	INFO	Listening on port 39939
+1626845082864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626845111433	Marionette	INFO	Stopped listening on port 39939
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626845307521	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFyXDSa"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626845307969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFyXDSa/search.json.mozlz4", (void 0)))
+1626845311584	Marionette	INFO	Listening on port 43293
+1626845311736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626845330330	Marionette	INFO	Stopped listening on port 43293
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626845336245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQNxJjz"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626845336714	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQNxJjz/search.json.mozlz4", (void 0)))
+1626845339936	Marionette	INFO	Listening on port 41865
+1626845340100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626845351969	Marionette	INFO	Stopped listening on port 41865
+1626846262031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP9ztb4"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626846262523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP9ztb4/search.json.mozlz4", (void 0)))
+1626846265527	Marionette	INFO	Listening on port 33017
+1626846265580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626846288242	Marionette	INFO	Stopped listening on port 33017
+1626847403261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6g72Ww"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626847403867	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6g72Ww/search.json.mozlz4", (void 0)))
+1626847407749	Marionette	INFO	Listening on port 46835
+1626847408081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626847419426	Marionette	INFO	Stopped listening on port 46835
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626847441359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqOrhYu"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626847441892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqOrhYu/search.json.mozlz4", (void 0)))
+1626847445615	Marionette	INFO	Listening on port 33831
+1626847445809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626847495539	Marionette	INFO	Stopped listening on port 33831
+1626847505384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4l7e6R"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626847506165	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4l7e6R/search.json.mozlz4", (void 0)))
+1626847509686	Marionette	INFO	Listening on port 45367
+1626847509772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626847521870	Marionette	INFO	Stopped listening on port 45367
+1626850278853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile28jObk"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626850279873	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile28jObk/search.json.mozlz4", (void 0)))
+1626850284008	Marionette	INFO	Listening on port 44107
+1626850284141	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:947:3
+
+1626850291707	Marionette	INFO	Stopped listening on port 44107
+1626850299194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAyPy1R"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626850299774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAyPy1R/search.json.mozlz4", (void 0)))
+1626850303329	Marionette	INFO	Listening on port 33923
+1626850303386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626850334746	Marionette	INFO	Stopped listening on port 33923
+1626850628528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1j6keJ"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626850628986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1j6keJ/search.json.mozlz4", (void 0)))
+1626850632414	Marionette	INFO	Listening on port 38521
+1626850632506	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:947:3
+
+1626850635531	Marionette	INFO	Stopped listening on port 38521
+1626850640520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePqHrJ4"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1626850641244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePqHrJ4/search.json.mozlz4", (void 0)))
+1626850644469	Marionette	INFO	Listening on port 45461
+1626850644625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1626850658206	Marionette	INFO	Stopped listening on port 45461
+1628609214901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev2R8BG"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1628609218363	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev2R8BG/search.json.mozlz4", (void 0)))
+1628609224726	Marionette	INFO	Listening on port 36297
+1628609224801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1628609242159	Marionette	INFO	Stopped listening on port 36297
+1628616672634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuYhnMw"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1628616673306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuYhnMw/search.json.mozlz4", (void 0)))
+1628616677768	Marionette	INFO	Listening on port 44225
+1628616677860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628616688368	Marionette	INFO	Stopped listening on port 44225
+1628617554119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2UW0Ki"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1628617554569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2UW0Ki/search.json.mozlz4", (void 0)))
+1628617557692	Marionette	INFO	Listening on port 39399
+1628617557750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1628617578769	Marionette	INFO	Stopped listening on port 39399
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628617621219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYeTG5K"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1628617621662	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYeTG5K/search.json.mozlz4", (void 0)))
+1628617624846	Marionette	INFO	Listening on port 38983
+1628617624925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1628617637589	Marionette	INFO	Stopped listening on port 38983
+1628617825128	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewzjN0B"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1628617825703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewzjN0B/search.json.mozlz4", (void 0)))
+1628617828823	Marionette	INFO	Listening on port 41951
+1628617828944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1628617843209	Marionette	INFO	Stopped listening on port 41951
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628618920037	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyZdqaM"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1628618920539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyZdqaM/search.json.mozlz4", (void 0)))
+1628618924436	Marionette	INFO	Listening on port 38259
+1628618924555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628618926309	Marionette	INFO	Stopped listening on port 38259
+1628619020658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWi7RES"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1628619021254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWi7RES/search.json.mozlz4", (void 0)))
+1628619024629	Marionette	INFO	Listening on port 37981
+1628619024738	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1628619026409	Marionette	INFO	Stopped listening on port 37981
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1628619034062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemRnT5b"
+/usr/lib/firefox/browser/defaults/preferences/00parrot.js:30: prefs parse error: unexpected character
+/usr/lib/firefox/browser/defaults/syspref/00parrot.js:30: prefs parse error: unexpected character
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1628619034532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemRnT5b/search.json.mozlz4", (void 0)))
+1628619038018	Marionette	INFO	Listening on port 38927
+1628619038087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+1628619051409	Marionette	INFO	Stopped listening on port 38927
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
